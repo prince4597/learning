@@ -1,2 +1,4 @@
 console.log("hello");
-console.log("hii prince");
+console.log("raj");
+
+const a = 10;
